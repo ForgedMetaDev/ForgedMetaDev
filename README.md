@@ -36,8 +36,7 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ForgedMetaDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=C678DD" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForgedMetaDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=ForgedMetaDev&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Stats" />
 </div>
 
 ---
