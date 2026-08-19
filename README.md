@@ -41,12 +41,12 @@
 
 ---
 
-### 🌌 3D Contribution Graph
+### 🌌 3D Data Analytics Concept
 
-*(Auto-generated daily via GitHub Actions)*
+*(Technical showcase visualization)*
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="800" />
+  <img src="3d_concept_graph.jpg" alt="3D Data Analytics Concept" width="800" style="border-radius: 15px; border: 1px solid #00F0FF; box-shadow: 0 0 20px rgba(0, 240, 255, 0.2);" />
 </div>
 
 <br/>
